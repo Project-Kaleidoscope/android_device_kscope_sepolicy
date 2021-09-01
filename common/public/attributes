@@ -1,4 +1,5 @@
 # HALs
+hal_attribute_lineage(chargecontrol)
 hal_attribute_lineage(lineage_camera_motor)
 hal_attribute_lineage(lineage_touch)
 hal_attribute_lineage(lineage_powershare)
