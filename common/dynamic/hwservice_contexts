@@ -1,5 +1,4 @@
 motorola.hardware.health::IMotHealth                                    u:object_r:hal_health_hwservice:s0
-vendor.lineage.biometrics.fingerprint.inscreen::IFingerprintInscreen    u:object_r:hal_lineage_fod_hwservice:s0
 vendor.lineage.camera.motor::ICameraMotor                               u:object_r:hal_lineage_camera_motor_hwservice:s0
 vendor.lineage.power::ILineagePower                                     u:object_r:hal_power_hwservice:s0
 vendor.lineage.powershare::IPowerShare                                  u:object_r:hal_lineage_powershare_hwservice:s0
